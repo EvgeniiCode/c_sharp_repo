@@ -1,0 +1,16 @@
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.exe
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.deps.json
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.json
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.runtimeconfig.dev.json
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.dll
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ref\ConsoleApp4.dll
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\bin\Debug\net5.0\ConsoleApp4.pdb
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfoInputs.cache
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.AssemblyInfo.cs
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csproj.CoreCompileInputs.cache
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.dll
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ref\ConsoleApp4.dll
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.pdb
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.genruntimeconfig.cache
+A:\projects_it\c_sharp_repo\ConsoleApp4\ConsoleApp4\obj\Debug\net5.0\ConsoleApp4.csprojAssemblyReference.cache
